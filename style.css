@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(152, 152, 224);
+    color:white;
+}
+.heading{
+    width: 80%;
+    font-size: medium;
+}
+.objects{
+    color:black;
+}
+#webcam{
+    border: 2px dashed black;
+    width: 350px;
+    height: 350px;
+}
+#resultcheck{
+    background-color:rgb(232, 115, 115) ;
+}
